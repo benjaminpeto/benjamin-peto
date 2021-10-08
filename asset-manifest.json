@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/benjamin-peto/static/css/main.b5e92f7d.chunk.css",
+    "main.js": "/benjamin-peto/static/js/main.2a5a64f9.chunk.js",
+    "main.js.map": "/benjamin-peto/static/js/main.2a5a64f9.chunk.js.map",
+    "runtime-main.js": "/benjamin-peto/static/js/runtime-main.f4609dda.js",
+    "runtime-main.js.map": "/benjamin-peto/static/js/runtime-main.f4609dda.js.map",
+    "static/js/2.9567b86e.chunk.js": "/benjamin-peto/static/js/2.9567b86e.chunk.js",
+    "static/js/2.9567b86e.chunk.js.map": "/benjamin-peto/static/js/2.9567b86e.chunk.js.map",
+    "static/js/3.641afcce.chunk.js": "/benjamin-peto/static/js/3.641afcce.chunk.js",
+    "static/js/3.641afcce.chunk.js.map": "/benjamin-peto/static/js/3.641afcce.chunk.js.map",
+    "index.html": "/benjamin-peto/index.html",
+    "static/css/main.b5e92f7d.chunk.css.map": "/benjamin-peto/static/css/main.b5e92f7d.chunk.css.map",
+    "static/js/2.9567b86e.chunk.js.LICENSE.txt": "/benjamin-peto/static/js/2.9567b86e.chunk.js.LICENSE.txt",
+    "static/media/shockbyte_banner.c4bd1255.webp": "/benjamin-peto/static/media/shockbyte_banner.c4bd1255.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4609dda.js",
+    "static/js/2.9567b86e.chunk.js",
+    "static/css/main.b5e92f7d.chunk.css",
+    "static/js/main.2a5a64f9.chunk.js"
+  ]
+}
